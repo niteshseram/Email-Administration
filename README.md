@@ -1,5 +1,5 @@
 # Email-Administration
-This is a simple comsole based Java project for email administration like creating new email for new employee of the company.
+This is a simple console based Java project for email administration like creating new email for new employee of the company.
 * Generate an email with the following syntax:firstname.lastname@department.company.com
 * Determine the department(Sales, development, accounting).
 * Generate a random String for a password
